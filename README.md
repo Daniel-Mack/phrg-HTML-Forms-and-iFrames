@@ -201,4 +201,8 @@ Iframe elements allow us to link to other HTML content from within a frame windo
 - [HTML Form Generator](http://www.phpform.org/)
 - 
 <p class='util--hide'>View <a href='https://learn.co/lessons/HTML-Forms-and-iFrames'>HTML Forms and iFrames</a> on Learn.co and start learning to code for free.</p>
+
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-HTML-Forms-and-iFrames/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-HTML-Forms-and-iFrames/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+ 
 <p data-visibility='hidden'>PHRG HTML Forms and Iframes</p>
